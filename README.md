@@ -6,4 +6,4 @@ Rules:
 3. all games must be open source for modders and or inspired games, but modified games must state the original developer
 4. games may be shared anywhere they're not exclusive to guthub, as long as its downloadable
 5. whatever file it is (cxx, Java, or python, the appropriate Droid app must be installed (pydroid3, jvdroid, or cxxdroid
-6. if you want more advanced games, pip and libraries are allowed
+6. if you want more advanced games, pip and libraries are allowed. though the pydroid3 repositories plugin must be downloaded from the Google play store to function
